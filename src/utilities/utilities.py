@@ -13,3 +13,4 @@ class sideBarView:
         #self.productName = Entry(self.frame)
         self.productName = Entry(self.frame)
         self.productName.grid(row=1,column=1)
+
